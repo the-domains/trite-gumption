@@ -1,16 +1,16 @@
-layout_spectrum: 0.4749435745179653
-typography_spectrum: 0.22729196841828525
+layout_spectrum: 0.6474942415952682
+typography_spectrum: 0.4738263408653438
 color:
-  brandStrength: 0.9829997681081295
-  lightness: 0.3082137939054519
-  saturation: 0.3378558438271284
-  rhythmicContrast: 0.4274172510486096
+  brandStrength: 0.07914277468807995
+  lightness: 0.8817640750203282
+  saturation: 0.14814685098826885
+  rhythmicContrast: 0.068399453535676
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: trite gumption
 author:
   name: Tomae Satpotov
